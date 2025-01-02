@@ -76,7 +76,7 @@ body .top .txt h1 {
 body .vidvid {
   left: 10%;
   width: 80%;
-  height: 35%;
+  height: 30%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -84,13 +84,14 @@ body .vidvid {
 }
 body .vidvid .vidd {
   width: 100%;
-  height: 80%;
+  height: 100%;
   object-fit: contain;
 }
 body .btm {
   width: 100%;
   height: fit-content;
   bottom: 0%;
+  position: relative;
   margin-bottom: 10%;
   display: flex;
   flex-wrap: wrap;
